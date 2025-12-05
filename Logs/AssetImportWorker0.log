@@ -250,3 +250,11 @@ Received Import Request.
 Start importing Assets/Scripts/skottcontroller.cs using Guid(01f8a6e56cee2264b8a1aea31fe7b019) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6930947c17ace94f0fcfe6cc17d023d9') in 0.0006574 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+========================================================================
+Received Import Request.
+  Time since last request: 27.410715 seconds.
+  path: Assets/Scripts/Ship
+  artifactKey: Guid(35e91f47bc194ca44a51b524d701b2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ship using Guid(35e91f47bc194ca44a51b524d701b2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94606efc8ad52a0c36f75ce8a53e5315') in 0.0019552 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
