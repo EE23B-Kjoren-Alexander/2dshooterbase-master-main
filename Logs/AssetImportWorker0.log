@@ -226,3 +226,27 @@ Unloading 2944 unused Assets / (1.2 MB). Loaded Objects now: 3426.
 Memory consumption went from 78.7 MB to 77.5 MB.
 Total: 13.383700 ms (FindLiveObjects: 0.294700 ms CreateObjectMapping: 0.583300 ms MarkObjects: 11.032300 ms  DeleteObjects: 1.472000 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 834.498303 seconds.
+  path: Assets/Scripts/FientligStyrning.cs
+  artifactKey: Guid(ef58b851633f14d4994f7e36940d908f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FientligStyrning.cs using Guid(ef58b851633f14d4994f7e36940d908f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ac46dd415cebbd6068e448c7cf25089') in 0.0044407 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.272754 seconds.
+  path: Assets/Scripts/JumperController.cs
+  artifactKey: Guid(97bf28a908f876346ae5a3656a471b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/JumperController.cs using Guid(97bf28a908f876346ae5a3656a471b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73abec6d797757c5eac2df779dabdc94') in 0.0006475 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.811392 seconds.
+  path: Assets/Scripts/skottcontroller.cs
+  artifactKey: Guid(01f8a6e56cee2264b8a1aea31fe7b019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/skottcontroller.cs using Guid(01f8a6e56cee2264b8a1aea31fe7b019) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6930947c17ace94f0fcfe6cc17d023d9') in 0.0006574 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
